@@ -1,1 +1,1 @@
-Write a script that adds execution permission to everyone
+write a script that set all permissions to others only
