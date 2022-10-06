@@ -1,1 +1,1 @@
-write a script that set all permissions to others only
+Write a script that sets the mode of the file hello to this
